@@ -1,4 +1,4 @@
-module github.com/michaelbeutler/edubase-to-pdf
+module github.com/kinba3000/eitswiss-ebook-to-pdf
 
 go 1.23
 
